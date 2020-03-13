@@ -1,6 +1,6 @@
 # **Markdown Testseite** #
 
-![doge](https://github.com/grouv-Y/Images/issues/2#issue-580510190)
+![doge](https://github.com/grouv-Y/Images/issues/2#issue-580510190/300/300)
 
 ## **Resources** ##
 
@@ -23,7 +23,7 @@
   * [Imagelösung](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d)
 
 
-![google](https://github.com/grouv-Y/Images/issues/1)
+![google](https://github.com/grouv-Y/Images/issues/1/300/300)
 
 
 
