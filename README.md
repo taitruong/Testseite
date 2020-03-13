@@ -1,6 +1,6 @@
 # **Markdown Testseite** #
 
-![doge](https://user-images.githubusercontent.com/60201852/76613337-39b7ea00-651e-11ea-874b-8f907ad05854.png/300/300)
+![doge](https://user-images.githubusercontent.com/60201852/76613337-39b7ea00-651e-11ea-874b-8f907ad05854.png)
 
 ## **Resources** ##
 
@@ -23,7 +23,7 @@
   * [Imagelösung](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d)
 
 
-![google](https://user-images.githubusercontent.com/60201852/76613273-1d1bb200-651e-11ea-8a3c-15059cd3a570.jpg/300/300)
+![google](https://user-images.githubusercontent.com/60201852/76613273-1d1bb200-651e-11ea-8a3c-15059cd3a570.jpg)
 
 
 
