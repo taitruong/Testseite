@@ -14,13 +14,13 @@
 
 * **Markdown**
 
- * [Noob](https://github.com/prof3ssorSt3v3/Learning-Github#new-heading-from-a-collaborator)
+   * [Noob](https://github.com/prof3ssorSt3v3/Learning-Github#new-heading-from-a-collaborator)
 
-  * [Master](https://guides.github.com/features/mastering-markdown/)
+   * [Master](https://guides.github.com/features/mastering-markdown/)
 
 * **Honorable Mention**
  
- * [Imagelösung](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d)
+  * [Imagelösung](https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d)
 
 
 ![google](https://github.com/grouv-Y/Images/issues/1)
